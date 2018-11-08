@@ -3,3 +3,7 @@ WeChat Sample Builder for https://github.com/JeffreySu/WeiXinMPSDK, use DPB: htt
 
 With this tool, developers can visually build a [Senparc.Weixin](https://github.com/JeffreySu/WeiXinMPSDK) Sample project that contains 
 only the modules that need to be used.
+
+## Download
+
+https://weixin.senparc.com/user
